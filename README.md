@@ -22,7 +22,7 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
+
 |2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
 |3 | [What is TypeScript?](#what-is-typescript)|
 |4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
@@ -305,12 +305,6 @@
 |281| [Explain Angular Signals with an example](#explain-angular-signals-with-an-example)
 |282| [What are the Route Parameters? Could you explain each of them?](#what-are-the-route-parameters-could-you-explain-each-of-them)
 |283| [](#)
-
-1. ### What is Angular Framework?
-
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
-
-  **[⬆ Back to Top](#table-of-contents)**
 
 2. ### What is the difference between AngularJS and Angular?
     Angular is a completely revived component-based framework in which an application is a tree of individual components.
